@@ -3,7 +3,7 @@
 Classification of 12 plant species using ResNet-18 deep CNN and PyTorch.
 
 ## Project Info
-- College: CMR College of Engineering&Technology
+- College: Audisankara College of Engineering and Technology
 - Architecture: ResNet-18 (Transfer Learning)
 - Dataset: V2 Plant Seedlings Dataset (Kaggle)
 - Best Accuracy: 76.58%
