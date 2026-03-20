@@ -313,8 +313,8 @@ pip install torch torchvision pillow matplotlib seaborn scikit-learn numpy
 
 | Field | Details |
 |---|---|
-| Institution | Audisankara College of Engineering and Technology (Autonomous) |
-| Department | MCA |
+| Institution | CMR College of Engineering and Technology (Autonomous) |
+| Department | CSE |
 | Project Type | Mini Project (2 Credits) |
 | Reference Paper | Classification of Plant Seedlings Using Deep CNN Architectures — Journal of Engineering Sciences, Vol 14, Issue 08, 2023 |
 
@@ -333,7 +333,7 @@ pip install torch torchvision pillow matplotlib seaborn scikit-learn numpy
 
 **Varun Kumar Kesineni**
 - GitHub: [@varunkumarkesineni](https://github.com/varunkumarkesineni)
-- Institution: Audisankara College of Engineering and Technology
+- Institution: CMR College of Engineering and Technology
 
 ---
 
